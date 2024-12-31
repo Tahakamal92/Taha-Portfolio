@@ -1,0 +1,63 @@
+header body {
+    background-color: #FFFFFF;
+}
+
+
+
+.nav-link{
+    color: #000;
+}
+.container-fluid h1{
+font-family: #21243D;
+font-size: 40px;
+}
+.main-bunner{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-bar{
+    margin-bottom: 140px;
+}
+
+.h1{
+    font-family: url("fonts/Heebo-VariableFont_wght.ttf");
+    font-size: 44px;
+    width: 609px;
+    font-weight: bold;
+}
+.download-button{
+    width: 208px;
+    height: 47px;
+   background-color: #FF6464;
+   color: #FFFFFF;
+   border-width: 0px;
+   font-family: url("fonts/Heebo-VariableFont_wght.ttf");
+   border-radius: 2px;
+   margin-bottom: 78px;
+}
+.navbar{
+    margin-left: 148px;
+}
+
+.main-cards{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    background-color: #EDF7FA;
+}
+.card-1{
+    position: relative;
+    margin-left: 148px;
+    width: 418px;
+    height: 237px;
+    
+}
+.card-2{
+    position: relative;
+    margin-left: 148px;
+    width: 418px;
+    height: 237px;
+    
+}
