@@ -20,7 +20,9 @@ font-size: 40px;
 .nav-bar{
     margin-bottom: 140px;
 }
-
+.view{
+    color: #00A8CC;
+}
 .h1{
     font-family: url("fonts/Heebo-VariableFont_wght.ttf");
     font-size: 44px;
@@ -44,6 +46,7 @@ font-size: 40px;
 .main-cards{
     position: relative;
     display: flex;
+    
     flex-direction: row;
     background-color: #EDF7FA;
 }
@@ -52,6 +55,7 @@ font-size: 40px;
     margin-left: 148px;
     width: 418px;
     height: 237px;
+    background-color: #FFFFFF;
     
 }
 .card-2{
@@ -59,5 +63,20 @@ font-size: 40px;
     margin-left: 148px;
     width: 418px;
     height: 237px;
-    
+    background-color: #FFFFFF;
+   
+}
+
+
+
+
+.col-4{
+    margin-top: 22px;
+}
+.
+.col-6{
+    border-width: 62px;
+    height: 25px;
+    border-radius: 16px;
+    background-color: #142850;
 }
